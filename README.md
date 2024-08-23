@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Arun
-- I'm working at Eloiacs.Pvt.Ltd
+- 👨‍💻 I'm working at Eloiacs.Softwa.Pvt.Ltd
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning SpringBoot
 - 💞️ I’m looking to collaborate on ...
